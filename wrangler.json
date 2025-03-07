@@ -1,0 +1,16 @@
+{
+  "compatibility_date": "2024-11-01",
+  "main": "src/index.ts",
+  "name": "sweet-pond-60c2",
+  "upload_source_maps": true,
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_id": "7561d8ff-08cd-4a28-a07c-2f799d156474",
+      "database_name": "sweet-pond-60c2-d1"
+    }
+  ],
+  "observability": {
+    "enabled": true
+  }
+}
